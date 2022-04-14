@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_poster_image">MoviePoster</string>
+    <string name="movie_title">Movie</string>
+    <string name="director_name">Director</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_plot">Plot</string>
+    <string name="add_to_favorites_button">Add to Favorites</string>
+    <string name="remove_from_favorites_button">Remove from Favorites</string>
+</resources>
